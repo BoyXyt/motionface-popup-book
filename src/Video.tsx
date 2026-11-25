@@ -10,7 +10,6 @@ import {SceneOutro} from './scenes/SceneOutro';
 import {Subtitle} from './components/Subtitle';
 import {Grain, Vignette, Flicker} from './lib/paper';
 import {CUT, SUBTITLES, DURATION_FRAMES, FPS} from './subtitles';
-import {interpolate} from 'remotion';
 
 /**
  * A Remotion recreation of the "立体书：约束越多，作品越能脱颖而出"
@@ -18,10 +17,8 @@ import {interpolate} from 'remotion';
  */
 export const Video: React.FC = () => {
   const f = useCurrentFrame();
-  const fade = interpolate(f, [DURATION_FRAMES - 7, DURATION_FRAMES - 1], [0, 1], {
-    extrapolateLeft: 'clamp',
-    extrapolateRight: 'clamp',
-  });
+  // the reference cuts to black on the final frame only; keep a 2 frame dip
+  const fade = f >= DURATION_FRAMES - 2 ? 1 : 0;
   return (
     <AbsoluteFill style={{background: '#080400'}}>
       <Sequence from={0} durationInFrames={CUT.introEnd - 0} name="1 reject">
