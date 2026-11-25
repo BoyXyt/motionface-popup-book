@@ -1,0 +1,905 @@
+[1125/101448.986:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\Code Cache\wasm
+[1125/101448.986:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\Code Cache\js
+[1125/101448.990:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\Code Cache\wasm
+[1125/101448.990:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\Code Cache\wasm
+[1125/101448.990:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\Code Cache\js
+[1125/101448.990:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\Code Cache\js
+[1125/101448.991:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101448.991:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101448.991:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101448.992:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101448.991:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\Network: 拒绝访问。 (0x5)
+[1125/101449.014:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101449.014:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101449.015:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101449.015:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101449.015:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101449.015:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101449.015:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101449.015:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101449.015:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101449.015:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101449.015:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101449.048:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101452.004:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101455.033:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101458.069:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101501.095:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101504.140:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-GxMCBQ\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101512.279:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\Code Cache\js
+[1125/101512.279:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\Code Cache\wasm
+[1125/101512.283:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\Code Cache\js
+[1125/101512.283:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\Code Cache\wasm
+[1125/101512.283:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\Code Cache\wasm
+[1125/101512.283:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\Code Cache\js
+[1125/101512.283:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\Network: 拒绝访问。 (0x5)
+[1125/101512.284:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101512.284:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101512.284:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101512.285:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101512.321:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101512.321:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101512.322:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101512.322:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101512.322:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101512.323:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101512.323:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101512.323:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101512.323:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101512.323:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101512.323:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101512.358:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101515.302:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101518.332:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-w4vAH3\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101526.237:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\Code Cache\wasm
+[1125/101526.237:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\Code Cache\js
+[1125/101526.240:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\Code Cache\wasm
+[1125/101526.241:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\Code Cache\wasm
+[1125/101526.241:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\Code Cache\js
+[1125/101526.241:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\Code Cache\js
+[1125/101526.241:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\Network: 拒绝访问。 (0x5)
+[1125/101526.241:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101526.242:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101526.241:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101526.242:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101526.266:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101526.269:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101526.269:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101526.269:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101526.269:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101526.269:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101526.269:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101526.270:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101526.270:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101526.270:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101526.270:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101526.305:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101529.261:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101532.299:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-zR76yg\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101541.927:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\Code Cache\js
+[1125/101541.927:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\Code Cache\wasm
+[1125/101541.931:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\Code Cache\wasm
+[1125/101541.931:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\Code Cache\wasm
+[1125/101541.931:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\Code Cache\js
+[1125/101541.931:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\Code Cache\js
+[1125/101541.932:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101541.932:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101541.933:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101541.933:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101541.933:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\Network: 拒绝访问。 (0x5)
+[1125/101541.964:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101541.966:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101541.966:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101541.966:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101541.966:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101541.966:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101541.966:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101541.966:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101541.966:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101541.966:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101541.967:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101541.997:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101544.960:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101547.995:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-kNdccn\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101556.273:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\Code Cache\js
+[1125/101556.273:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\Code Cache\wasm
+[1125/101556.276:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\Code Cache\wasm
+[1125/101556.276:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\Code Cache\wasm
+[1125/101556.276:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\Code Cache\js
+[1125/101556.276:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\Code Cache\js
+[1125/101556.277:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101556.278:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101556.277:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101556.278:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101556.277:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\Network: 拒绝访问。 (0x5)
+[1125/101556.300:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101556.301:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101556.302:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101556.302:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101556.302:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101556.302:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101556.302:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101556.302:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101556.302:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101556.302:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101556.302:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101556.335:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101559.302:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101602.338:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Zar0fT\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101610.346:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\Code Cache\js
+[1125/101610.346:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\Code Cache\wasm
+[1125/101610.353:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\Code Cache\js
+[1125/101610.353:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\Code Cache\wasm
+[1125/101610.354:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\Code Cache\js
+[1125/101610.354:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\Code Cache\wasm
+[1125/101610.355:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101610.356:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101610.355:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101610.356:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101610.355:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\Network: 拒绝访问。 (0x5)
+[1125/101610.374:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101610.376:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101610.377:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101610.377:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101610.377:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101610.377:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101610.377:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101610.377:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101610.377:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101610.377:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101610.377:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101610.412:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101613.371:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101616.409:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-XngPGw\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101624.437:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\Code Cache\js
+[1125/101624.437:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\Code Cache\wasm
+[1125/101624.444:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\Code Cache\wasm
+[1125/101624.444:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\Code Cache\js
+[1125/101624.444:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\Code Cache\js
+[1125/101624.444:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\Code Cache\wasm
+[1125/101624.444:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\Network: 拒绝访问。 (0x5)
+[1125/101624.445:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101624.446:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101624.445:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101624.446:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101624.478:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101624.479:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101624.481:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101624.481:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101624.481:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 操作成功完成。 (0x0)
+[1125/101624.481:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101624.481:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101624.481:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101624.481:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101624.481:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101624.481:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101624.512:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101627.458:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101630.488:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-BcfUaW\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101638.847:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\Code Cache\js
+[1125/101638.847:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\Code Cache\wasm
+[1125/101638.849:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\Network: 拒绝访问。 (0x5)
+[1125/101638.850:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\Code Cache\js
+[1125/101638.850:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\Code Cache\js
+[1125/101638.850:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\Code Cache\wasm
+[1125/101638.850:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\Code Cache\wasm
+[1125/101638.850:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101638.851:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101638.851:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101638.851:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101638.877:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101638.877:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101638.878:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101638.878:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101638.878:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101638.878:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101638.879:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101638.879:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101638.879:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101638.879:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101638.879:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101638.910:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101641.873:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101644.899:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NLQKWL\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101652.632:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\Code Cache\js
+[1125/101652.632:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\Code Cache\wasm
+[1125/101652.635:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\Code Cache\wasm
+[1125/101652.635:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\Code Cache\wasm
+[1125/101652.635:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\Code Cache\js
+[1125/101652.635:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\Code Cache\js
+[1125/101652.636:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101652.636:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101652.636:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\Network: 拒绝访问。 (0x5)
+[1125/101652.636:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101652.637:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101652.657:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101652.659:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101652.660:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101652.661:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101652.661:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101652.661:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101652.661:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101652.661:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101652.661:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101652.661:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101652.661:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101652.723:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101655.663:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101658.693:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-CPeY0j\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101706.182:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\Code Cache\js
+[1125/101706.182:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\Code Cache\wasm
+[1125/101706.185:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\Code Cache\wasm
+[1125/101706.185:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\Code Cache\wasm
+[1125/101706.185:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\Code Cache\js
+[1125/101706.186:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\Code Cache\js
+[1125/101706.186:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\Network: 拒绝访问。 (0x5)
+[1125/101706.186:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101706.186:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101706.186:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101706.187:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101706.210:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101706.210:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101706.211:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101706.211:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101706.211:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101706.211:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101706.211:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101706.211:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101706.211:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101706.211:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101706.212:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101706.240:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101709.209:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101712.254:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-8g4scK\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101720.966:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\Code Cache\wasm
+[1125/101720.966:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\Code Cache\js
+[1125/101720.969:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\Code Cache\js
+[1125/101720.969:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\Code Cache\js
+[1125/101720.969:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\Code Cache\wasm
+[1125/101720.969:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\Code Cache\wasm
+[1125/101720.969:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\Network: 拒绝访问。 (0x5)
+[1125/101720.970:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101720.970:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101720.969:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101720.970:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101720.990:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101720.990:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101720.992:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101720.992:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101720.992:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101720.992:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101720.992:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101720.992:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101720.992:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101720.992:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101720.992:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101721.031:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101723.996:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101727.036:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-vgQzjz\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101736.297:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\Code Cache\wasm
+[1125/101736.297:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\Code Cache\js
+[1125/101736.301:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\Code Cache\wasm
+[1125/101736.301:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\Code Cache\wasm
+[1125/101736.302:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\Code Cache\js
+[1125/101736.302:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\Code Cache\js
+[1125/101736.302:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101736.303:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101736.302:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\Network: 拒绝访问。 (0x5)
+[1125/101736.303:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101736.303:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101736.330:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101736.330:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101736.331:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101736.331:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 操作成功完成。 (0x0)
+[1125/101736.331:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101736.332:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101736.332:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101736.332:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101736.332:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101736.332:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101736.332:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101736.367:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101739.325:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101742.360:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-lsDxdM\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101752.143:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\Code Cache\js
+[1125/101752.144:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\Code Cache\wasm
+[1125/101752.145:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\Network: 拒绝访问。 (0x5)
+[1125/101752.164:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101752.167:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101752.604:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101752.168:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101752.168:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101752.604:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101752.604:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101752.604:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101752.604:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101752.604:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101752.604:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101752.169:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101752.608:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\Code Cache\js
+[1125/101752.608:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\Code Cache\js
+[1125/101752.609:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\Code Cache\wasm
+[1125/101752.609:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\Code Cache\wasm
+[1125/101752.610:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101752.610:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101752.610:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101752.610:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101755.170:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101758.199:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-pw1QEv\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101806.744:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\Code Cache\js
+[1125/101806.744:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\Code Cache\wasm
+[1125/101806.748:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\Code Cache\wasm
+[1125/101806.748:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\Code Cache\wasm
+[1125/101806.748:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\Code Cache\js
+[1125/101806.748:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\Code Cache\js
+[1125/101806.748:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\Network: 拒绝访问。 (0x5)
+[1125/101806.749:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 操作成功完成。 (0x0)
+[1125/101806.749:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101806.749:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101806.750:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101806.777:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101806.779:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101806.779:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101806.779:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101806.779:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101806.779:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101806.779:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101806.779:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101806.779:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101806.779:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101806.782:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101806.808:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101809.783:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101812.821:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-Tk0Dhf\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101821.099:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\Code Cache\js
+[1125/101821.099:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\Code Cache\wasm
+[1125/101821.104:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\Code Cache\wasm
+[1125/101821.104:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\Code Cache\wasm
+[1125/101821.104:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\Code Cache\js
+[1125/101821.104:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\Code Cache\js
+[1125/101821.104:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101821.105:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101821.105:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101821.105:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\Network: 拒绝访问。 (0x5)
+[1125/101821.105:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101821.122:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/101821.123:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/101821.124:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101821.124:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101821.124:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101821.124:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101821.124:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/101821.124:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101821.124:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101821.124:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/101821.124:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/101821.161:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/101824.123:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/101827.154:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-77Lg5H\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102156.316:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\Code Cache\wasm
+[1125/102156.316:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\Code Cache\js
+[1125/102156.319:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\Code Cache\js
+[1125/102156.319:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\Code Cache\wasm
+[1125/102156.319:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\Code Cache\js
+[1125/102156.319:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\Code Cache\wasm
+[1125/102156.319:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\Network: 拒绝访问。 (0x5)
+[1125/102156.320:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102156.320:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102156.320:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102156.321:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102156.340:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102156.342:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102156.343:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102156.343:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102156.343:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102156.344:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102156.344:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102156.344:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102156.344:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102156.344:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102156.344:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102156.384:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102159.322:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102202.352:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-QpTB4n\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102209.113:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\Code Cache\wasm
+[1125/102209.113:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\Code Cache\js
+[1125/102209.116:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\Code Cache\js
+[1125/102209.116:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\Code Cache\js
+[1125/102209.116:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\Code Cache\wasm
+[1125/102209.116:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\Code Cache\wasm
+[1125/102209.117:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102209.118:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102209.117:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102209.118:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102209.117:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\Network: 拒绝访问。 (0x5)
+[1125/102209.140:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102209.143:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102209.144:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102209.144:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102209.144:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102209.144:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102209.144:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102209.144:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102209.144:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102209.144:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102209.144:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102209.183:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102212.132:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102215.158:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-3L58KP\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102222.758:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\Code Cache\wasm
+[1125/102222.758:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\Code Cache\js
+[1125/102222.762:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\Code Cache\wasm
+[1125/102222.762:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\Code Cache\wasm
+[1125/102222.762:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\Code Cache\js
+[1125/102222.762:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\Code Cache\js
+[1125/102222.762:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\Network: 拒绝访问。 (0x5)
+[1125/102222.762:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 操作成功完成。 (0x0)
+[1125/102222.763:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102222.762:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102222.763:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102222.785:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102222.786:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102222.787:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102222.787:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102222.787:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102222.787:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102222.787:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102222.787:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102222.787:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102222.787:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102222.787:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102222.822:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102225.780:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102228.815:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yVUCze\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102235.623:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\Code Cache\wasm
+[1125/102235.623:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\Code Cache\js
+[1125/102235.628:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\Code Cache\js
+[1125/102235.628:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\Code Cache\wasm
+[1125/102235.628:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\Code Cache\js
+[1125/102235.628:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\Code Cache\wasm
+[1125/102235.629:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102235.630:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102235.629:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102235.630:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102235.629:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\Network: 拒绝访问。 (0x5)
+[1125/102235.648:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102235.648:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102235.649:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102235.649:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102235.649:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102235.649:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102235.649:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102235.649:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102235.649:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102235.649:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102235.649:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102235.686:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102238.656:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102241.685:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-cUcFER\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102248.331:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\Code Cache\wasm
+[1125/102248.331:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\Code Cache\js
+[1125/102248.332:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\Network: 拒绝访问。 (0x5)
+[1125/102248.334:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\Code Cache\js
+[1125/102248.334:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\Code Cache\wasm
+[1125/102248.334:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\Code Cache\js
+[1125/102248.334:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\Code Cache\wasm
+[1125/102248.334:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102248.334:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102248.334:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102248.334:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102248.355:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102248.356:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102248.357:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102248.357:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102248.357:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102248.359:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102248.357:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102248.359:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102248.359:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102248.359:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102248.359:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102248.395:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102251.349:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102254.374:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-xwyIrL\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102301.569:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\Code Cache\js
+[1125/102301.569:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\Code Cache\wasm
+[1125/102301.573:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\Code Cache\js
+[1125/102301.573:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\Code Cache\js
+[1125/102301.573:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\Code Cache\wasm
+[1125/102301.573:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\Code Cache\wasm
+[1125/102301.573:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\Network: 拒绝访问。 (0x5)
+[1125/102301.573:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102301.574:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102301.573:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102301.574:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102301.594:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102301.595:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102301.595:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102301.595:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102301.595:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102301.596:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102301.596:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102301.596:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102301.596:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102301.596:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102301.596:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102301.633:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102304.596:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102307.622:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-sNcuYC\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102314.416:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\Code Cache\js
+[1125/102314.416:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\Code Cache\wasm
+[1125/102314.420:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\Code Cache\wasm
+[1125/102314.420:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\Code Cache\wasm
+[1125/102314.420:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\Code Cache\js
+[1125/102314.420:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\Code Cache\js
+[1125/102314.420:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\Network: 拒绝访问。 (0x5)
+[1125/102314.420:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102314.420:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102314.421:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102314.421:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102314.442:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102314.444:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102314.444:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102314.444:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102314.444:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102314.444:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102314.444:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102314.444:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102314.444:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102314.444:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102314.444:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102314.477:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102317.450:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102320.483:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-NvHIom\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102327.405:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\Code Cache\wasm
+[1125/102327.405:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\Code Cache\js
+[1125/102327.406:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\Network: 拒绝访问。 (0x5)
+[1125/102327.408:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\Code Cache\wasm
+[1125/102327.408:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\Code Cache\wasm
+[1125/102327.408:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\Code Cache\js
+[1125/102327.408:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\Code Cache\js
+[1125/102327.408:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102327.408:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102327.408:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102327.409:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102327.428:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102327.429:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102327.430:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102327.430:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102327.430:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102327.430:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102327.430:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102327.431:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102327.431:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102327.431:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102327.431:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102327.473:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102330.427:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102333.461:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-fvpYbn\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102340.263:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\Code Cache\wasm
+[1125/102340.263:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\Code Cache\js
+[1125/102340.265:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\Code Cache\wasm
+[1125/102340.265:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\Code Cache\wasm
+[1125/102340.266:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\Code Cache\js
+[1125/102340.266:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\Code Cache\js
+[1125/102340.266:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\Network: 拒绝访问。 (0x5)
+[1125/102340.266:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102340.266:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102340.266:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102340.266:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102340.288:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102340.289:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102340.322:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102340.468:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102340.469:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102340.469:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102340.471:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102340.471:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102340.471:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102340.471:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102340.471:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102340.471:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102343.284:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102346.320:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-V7iOaj\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102353.887:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\Code Cache\wasm
+[1125/102353.887:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\Code Cache\js
+[1125/102353.890:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\Code Cache\wasm
+[1125/102353.890:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\Code Cache\wasm
+[1125/102353.890:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\Code Cache\js
+[1125/102353.890:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\Code Cache\js
+[1125/102353.890:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102353.890:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102353.891:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102353.890:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\Network: 拒绝访问。 (0x5)
+[1125/102353.891:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102353.908:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102353.910:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102353.911:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102353.911:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102353.911:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102353.911:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102353.911:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102353.911:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102353.911:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102353.911:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102353.911:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102353.949:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102356.920:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102359.957:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-etQKkS\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102407.395:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\Code Cache\wasm
+[1125/102407.395:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\Code Cache\js
+[1125/102407.397:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\Network: 拒绝访问。 (0x5)
+[1125/102407.398:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\Code Cache\js
+[1125/102407.398:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\Code Cache\js
+[1125/102407.398:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\Code Cache\wasm
+[1125/102407.398:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\Code Cache\wasm
+[1125/102407.398:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102407.400:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102407.400:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102407.400:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102407.419:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102407.420:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102407.422:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102407.422:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102407.422:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102407.422:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102407.422:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102407.422:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102407.422:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102407.422:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102407.422:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102407.458:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102410.425:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102413.461:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-bP1RUN\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102421.020:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\Code Cache\js
+[1125/102421.020:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\Code Cache\wasm
+[1125/102421.022:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\Network: 拒绝访问。 (0x5)
+[1125/102421.042:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102421.044:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102421.044:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102421.254:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102421.044:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102421.050:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102421.254:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102421.254:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102421.254:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102421.254:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102421.254:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102421.254:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102421.257:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\Code Cache\js
+[1125/102421.257:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\Code Cache\js
+[1125/102421.257:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\Code Cache\wasm
+[1125/102421.257:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\Code Cache\wasm
+[1125/102421.258:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102421.258:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102421.258:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102421.258:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102424.057:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102427.093:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-rKR2hd\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102433.894:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\Code Cache\js
+[1125/102433.895:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\Code Cache\wasm
+[1125/102433.896:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\Network: 拒绝访问。 (0x5)
+[1125/102433.897:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\Code Cache\js
+[1125/102433.897:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\Code Cache\js
+[1125/102433.897:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\Code Cache\wasm
+[1125/102433.897:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\Code Cache\wasm
+[1125/102433.897:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102433.897:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102433.898:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102433.898:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102433.916:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102433.917:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102433.918:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102433.918:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 操作成功完成。 (0x0)
+[1125/102433.918:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102433.918:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102433.918:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102433.918:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102433.918:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102433.918:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102433.918:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102433.955:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102436.920:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102439.956:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-H5A84t\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102446.780:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\Code Cache\wasm
+[1125/102446.780:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\Code Cache\js
+[1125/102446.784:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\Code Cache\wasm
+[1125/102446.784:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\Code Cache\wasm
+[1125/102446.784:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\Code Cache\js
+[1125/102446.784:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\Code Cache\js
+[1125/102446.784:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\Network: 拒绝访问。 (0x5)
+[1125/102446.784:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102446.785:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102446.784:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102446.785:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102446.805:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102446.805:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102446.806:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102446.807:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102446.807:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102446.807:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102446.807:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102446.807:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102446.807:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102446.807:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102446.807:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102446.843:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102449.803:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102452.836:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-01wW8t\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102459.571:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\Code Cache\wasm
+[1125/102459.571:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\Code Cache\js
+[1125/102459.573:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\Code Cache\wasm
+[1125/102459.573:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\Code Cache\wasm
+[1125/102459.574:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\Code Cache\js
+[1125/102459.574:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\Code Cache\js
+[1125/102459.574:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102459.575:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102459.574:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\Network: 拒绝访问。 (0x5)
+[1125/102459.575:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102459.575:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102459.596:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/102459.597:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/102459.597:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102459.597:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102459.597:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102459.597:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102459.597:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/102459.597:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102459.597:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102459.598:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/102459.598:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/102459.631:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/102502.601:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/102505.632:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-yS0ii8\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/103659.391:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\Code Cache\wasm
+[1125/103659.391:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\Code Cache\js
+[1125/103659.394:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\Code Cache\wasm
+[1125/103659.395:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\Code Cache\wasm
+[1125/103659.395:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\Code Cache\js
+[1125/103659.395:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\Code Cache\js
+[1125/103659.395:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103659.396:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103659.395:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103659.397:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103659.396:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\Network: 拒绝访问。 (0x5)
+[1125/103659.425:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/103659.426:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103659.426:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103659.426:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103659.426:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/103659.426:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103659.426:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/103659.426:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103659.426:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103659.426:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/103659.430:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/103659.461:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/103702.498:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/103705.523:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-aiL8Li\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/103712.184:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\Code Cache\js
+[1125/103712.184:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\Code Cache\wasm
+[1125/103712.187:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\Code Cache\js
+[1125/103712.187:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\Code Cache\js
+[1125/103712.188:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\Code Cache\wasm
+[1125/103712.188:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\Code Cache\wasm
+[1125/103712.188:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103712.188:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\Network: 拒绝访问。 (0x5)
+[1125/103712.188:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103712.188:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103712.189:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103712.218:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/103712.219:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103712.219:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103712.220:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103712.220:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103712.220:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/103712.220:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103712.220:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/103712.220:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103712.220:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/103712.224:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/103712.257:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/103715.211:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/103718.243:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-a4Cj9h\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/103725.035:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\Code Cache\js
+[1125/103725.035:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\Code Cache\wasm
+[1125/103725.038:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\Code Cache\wasm
+[1125/103725.038:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\Code Cache\wasm
+[1125/103725.038:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\Code Cache\js
+[1125/103725.038:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\Code Cache\js
+[1125/103725.038:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\Network: 拒绝访问。 (0x5)
+[1125/103725.038:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103725.039:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103725.039:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103725.040:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103725.061:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/103725.061:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/103725.063:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103725.063:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103725.063:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103725.063:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/103725.063:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103725.063:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/103725.063:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/103725.063:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/103725.064:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/103725.098:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/103728.059:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/103731.112:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-IEpsEk\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/105251.387:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\Code Cache\js
+[1125/105251.387:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\Code Cache\wasm
+[1125/105251.390:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\Code Cache\js
+[1125/105251.390:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\Code Cache\js
+[1125/105251.390:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\Code Cache\wasm
+[1125/105251.390:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\Code Cache\wasm
+[1125/105251.390:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105251.391:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105251.390:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\Network: 拒绝访问。 (0x5)
+[1125/105251.390:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105251.391:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105251.415:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/105251.416:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/105251.416:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105251.416:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105251.416:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105251.416:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105251.416:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/105251.416:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105251.416:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/105251.416:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105251.416:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/105251.441:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/105254.410:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/105257.447:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/105300.481:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-7M5XZK\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/105308.036:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\Code Cache\wasm
+[1125/105308.036:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\Code Cache\js
+[1125/105308.039:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\Code Cache\wasm
+[1125/105308.039:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\Code Cache\js
+[1125/105308.039:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\Code Cache\wasm
+[1125/105308.039:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\Code Cache\js
+[1125/105308.039:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\Network: 拒绝访问。 (0x5)
+[1125/105308.039:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105308.039:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 操作成功完成。 (0x0)
+[1125/105308.039:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105308.039:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105308.067:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/105308.068:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105308.068:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105308.068:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105308.069:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105308.069:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/105308.069:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105308.069:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/105308.069:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105308.069:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/105308.072:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/105308.089:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/105311.060:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/105314.105:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-WzwMwC\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/105328.691:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\Code Cache\wasm
+[1125/105328.691:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\Code Cache\js
+[1125/105328.693:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\Code Cache\wasm
+[1125/105328.693:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\Code Cache\wasm
+[1125/105328.694:ERROR:net\disk_cache\simple\simple_backend_impl.cc:82] Failed to create directory: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\Code Cache\js
+[1125/105328.694:ERROR:net\disk_cache\simple\simple_backend_impl.cc:752] Simple Cache Backend: wrong file structure on disk: 1 path: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\Code Cache\js
+[1125/105328.694:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105328.694:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105328.694:ERROR:content\browser\network_sandbox.cc:518] Failed to create network context data directory C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\Network: 拒绝访问。 (0x5)
+[1125/105328.694:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105328.695:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105328.712:ERROR:content\browser\devtools\devtools_http_handler.cc:316] Error writing DevTools active port to file C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\DevToolsActivePort: 拒绝访问。 (0x5)
+[1125/105328.712:ERROR:content\browser\network_sandbox_grant_result_helper.cc:108] Encountered error while migrating network context data or granting sandbox access for C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\Network. Result: 2: 操作成功完成。 (0x0)
+[1125/105328.713:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105328.713:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105328.713:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105328.713:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/105328.713:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105328.713:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/105328.713:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: 系统找不到指定的路径。 (0x3)
+[1125/105328.713:ERROR:net\disk_cache\disk_cache.cc:293] Unable to create cache
+[1125/105328.713:ERROR:gpu\ipc\host\gpu_disk_cache.cc:804] Gpu Cache Creation failed: -2
+[1125/105328.741:WARNING:content\browser\btm\btm_database.cc:129] Failed to initialize the BTM SQLite database.
+[1125/105331.726:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\PersistentOriginTrials: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\PersistentOriginTrials/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/105334.759:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)
+[1125/105337.795:WARNING:components\leveldb_proto\internal\leveldb_database.cc:102] Unable to open C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\shared_proto_db\metadata: IO error: C:\Users\BoyOne\AppData\Local\Temp\puppeteer_dev_chrome_profile-g0PkCX\Default\shared_proto_db\metadata/LOCK: File not found. (ChromeMethodBFE: 15::LockFile::4)

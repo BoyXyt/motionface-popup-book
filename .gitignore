@@ -1,0 +1,10 @@
+node_modules
+out
+.remotion
+*.mp4
+.cache
+
+# Logs and OS noise
+*.log
+.DS_Store
+Thumbs.db
